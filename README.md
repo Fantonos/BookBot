@@ -45,5 +45,8 @@ Make sure you have Python installed on your machine. You can download it from th
     The 'c' character was found 2,345 times.
     ```
 
+**Acknowledgments**:
+    Special thanks to Boot.Dev for their guidance on this project!.
+
 **Contributing**:
     Feel free to open issues or submit pull requests if you want to contribute or suggest new features. Contributions are always welcome!
