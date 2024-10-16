@@ -29,21 +29,22 @@ Make sure you have Python installed on your machine. You can download it from th
 
 2. **Run the Script**:  
    Once the path is set, run the main script:
-   ```bash
+   ``` bash
    python main.py
    ```
+   
 3. **View the Results**:  
    After running the script, you'll see:
        The total number of words in the novel.
        The frequency of each alphabetical character (A-Z).
 
 **Example Output**:
-    ```bash
-    Total words in the novel: 78,456
+   ``` bash
+       Total words in the novel: 78,456
     The 'a' character was found 4,332 times.
     The 'b' character was found 1,234 times.
     The 'c' character was found 2,345 times.
-    ```
+   ```
 
 **Acknowledgments**:
     Special thanks to Boot.Dev for their guidance on this project!.
